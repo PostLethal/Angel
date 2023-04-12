@@ -1,3 +1,13 @@
+body{
+    background-color: black;
+    font-family: "remedy", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+nav{
+    z-index: 100;
+    position: fixed;
+}
 .space{
     background-color: gray;
     width: 100%;
@@ -15,7 +25,7 @@
 }
 
 .gallery-image{
-    margin-top: 50px;
+    margin-top: 150px;
     width: 20vw;
     height: 20vw;
     background-color: black;
